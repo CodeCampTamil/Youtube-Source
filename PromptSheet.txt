@@ -1,0 +1,11 @@
+I want to create a website for my youtube channel "Code Camp Tamil".
+
+About My Channel: I'm teach Full stack development with Javascript and Python, also framework and libraries of these languages.
+
+What i want in this website: I want to give downloadable zip file to my channel viewers, where they can download the source code of the project that i build in videos.
+
+Hosting Platform: I want to host this website in github pages.
+
+Recommended Technologies: Html, css, tailwind css and Javascript if required.
+
+Website UI: The UI should be elegant and professional.

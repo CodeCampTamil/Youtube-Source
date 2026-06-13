@@ -1,9 +1,9 @@
 const projects = [
     {
-        title: "Django Project Source Code",
+        title: "Django Project - Youtube Series",
         category: "fullstack",
-        language: "Django",
-        date: "2023-2024 Django <span style=\"color: red;\">Youtube Series</span>",
+        language: "Python",
+        date: "2023-2024 Series",
         description:
         "This Zip file contains the source code of the topics covered in Django Full Stack Playlist",
         tech: ["HTML", "CSS", "Bootstrap", "JavaScript", "Python", "Django", "MySQL"],
@@ -11,18 +11,18 @@ const projects = [
         video: "https://youtu.be/Vs-CmVKfWUA",
         available: true,
     },
-    // {
-    //     title: "Python Flask Blog",
-    //     category: "python",
-    //     language: "Python",
-    //     date: "Guide",
-    //     description:
-    //     "Build a small blog app with routes, templates, forms, authentication, and SQLite storage.",
-    //     tech: ["Python", "Flask", "Jinja", "SQLite"],
-    //     zip: "downloads/python-flask-blog.zip",
-    //     video: "https://www.youtube.com/",
-    //     available: false,
-    // },
+    {
+        title: "Flask Project",
+        category: "fullstack",
+        language: "Python",
+        date: "2025 Series",
+        description:
+        "This Zip file contains the source code of the topics covered in Django Full Stack Playlist",
+        tech: ["HTML", "CSS", "Python", "Flask", "MySQL"],
+        zip: "downloads/flask-series.zip",
+        video: "https://youtu.be/ME5E5JY-g1o",
+        available: true,
+    },
     // {
     //     title: "JavaScript Weather App",
     //     category: "javascript",

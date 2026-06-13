@@ -17,7 +17,7 @@ const projects = [
         language: "Python",
         date: "2025 Series",
         description:
-        "This Zip file contains the source code of the topics covered in Django Full Stack Playlist",
+        "This Zip file contains the source code of the topics covered in Flask Full Stack Playlist",
         tech: ["HTML", "CSS", "Python", "Flask", "MySQL"],
         zip: "downloads/flask-series.zip",
         video: "https://youtu.be/ME5E5JY-g1o",
